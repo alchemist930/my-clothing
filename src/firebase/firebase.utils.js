@@ -24,6 +24,7 @@ const config =  {
         await userRef.set({
           displayName,
           email,
+          
           createdAt,
           ...additionalData
         });
