@@ -6,10 +6,8 @@
   align-items: center;
   margin: 50px auto 0;
 
-
   .checkout-header {
     width: 100%;
-    height: 40px;
     padding: 10px 0;
     display: flex;
     justify-content: space-between;
@@ -30,15 +28,14 @@
     margin-left: auto;
     font-size: 36px;
   }
-  button {
+  button{
     margin-left: auto;
     margin-top: 50px;
-
   }
   .test-warning{
     text-align: center;
-    margin-top: 40px;
+    margin-top:40px;
     font-size: 24px;
-    color:red;
+    color: red;
   }
 }
